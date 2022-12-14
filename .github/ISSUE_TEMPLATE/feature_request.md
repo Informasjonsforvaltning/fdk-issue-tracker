@@ -1,14 +1,20 @@
-# 🚀 Feature forespørsel
+---
+name: Feature forespørsel
+about: Ny feature
+title: 'Feature: kort beskrivelse av feature'
+---
 
-## Feature beskrivelse
+## 🚀 Feature forespørsel
 
-## Hvorfor trenger vi det?
+### Feature beskrivelse
 
-## Forslag/løsning [Valgfritt]
+### Hvorfor trenger vi det?
 
-## Definisjon av ferdig
+### Forslag/løsning [Valgfritt]
 
-## Sjekkliste (Sjekk av etter issue er laget)
+### Definisjon av ferdig
+
+### Sjekkliste (Sjekk av etter issue er laget)
 
 - [ ] Lagt til label(s)
 - [ ] Lagt i utviklingsbrettet (Project)
