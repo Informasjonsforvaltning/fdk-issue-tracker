@@ -2,6 +2,7 @@
 name: Bug rapport
 about: Lag en bug rapport
 title: 'BUG: kort beskrivelse av problemet'
+labels: 'bug'
 ---
 ## 🐛 Bug rapport
 
@@ -12,8 +13,3 @@ title: 'BUG: kort beskrivelse av problemet'
 ### Hvordan reprodusere?
 
 ### Forslag/Løsning [Valgfritt]
-
-### Sjekkliste (Sjekk av etter issue er laget)
-
-- [ ] Lagt til label(s)
-- [ ] Lagt i utviklingsbrettet (Project)
