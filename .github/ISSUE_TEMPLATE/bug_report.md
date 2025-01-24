@@ -2,7 +2,7 @@
 name: Bug rapport
 about: Lag en bug rapport
 title: 'BUG: kort beskrivelse av problemet'
-labels: 'bug'
+type: 'Bug'
 ---
 ## 🐛 Bug rapport
 
